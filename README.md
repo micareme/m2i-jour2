@@ -1,4 +1,3 @@
 # m2i-jour2
 
-modifcation
-pour test
+Modification du texte pour patch
